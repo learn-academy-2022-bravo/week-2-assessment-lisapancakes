@@ -1,0 +1,22 @@
+{
+  "name": "week-2-assessment-lisapancakes",
+  "version": "1.0.0",
+  "description": "Being a developer requires an acute attention to detail. The expectation of this assessment is that all instructions are read carefully and followed completely.",
+  "main": "code-challenges.test.js",
+  "scripts": {
+    "jest": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-academy-2022-bravo/week-2-assessment-lisapancakes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn-academy-2022-bravo/week-2-assessment-lisapancakes/issues"
+  },
+  "homepage": "https://github.com/learn-academy-2022-bravo/week-2-assessment-lisapancakes#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
